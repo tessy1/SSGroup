@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: App
+Bundle-SymbolicName: Com.Cloud.app
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.cloud.app.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: android.app,
+ android.content,
+ android.location,
+ android.os,
+ android.support.v4.app,
+ android.view,
+ android.widget,
+ org.osgi.framework;version="1.3.0"
+

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Firstservice
+Bundle-SymbolicName: firstservice
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.cloud.service.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-package: com.cloud.service
+Import-Package: org.osgi.framework;version="1.3.0"
+
